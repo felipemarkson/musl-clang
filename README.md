@@ -3,6 +3,7 @@
 An example of how to compile a "Hello, World" using musl and Clang in Linux.
 
 > Clone this repo with submodules
+
 > This example uses `musl-1.2.3`. To change it, just go to musl file and change the branch.
 
 ## Dependencies
