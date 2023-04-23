@@ -1,3 +1,5 @@
 *.i
 *.o
-mainc
+main
+musl-dist/*
+!musl-dist/README

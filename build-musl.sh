@@ -1,0 +1,1 @@
+export CC=clang && cd musl && ./configure --prefix=../musl-dist && make && make install
