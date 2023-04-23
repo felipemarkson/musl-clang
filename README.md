@@ -1,0 +1,1 @@
+# Non-GNU C environment
