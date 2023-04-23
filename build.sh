@@ -1,7 +1,6 @@
 #!/bin/sh
 FILE_NO_EXTENSION='main'
 
-export PATH=$PATH:./musl-dist/bin
 rm -f $FILE_NO_EXTENSION
 
 libc="musl-dist"
