@@ -1,6 +1,6 @@
 # musl with Clang
 
-An example of how to compile a "Hello, World" using musl and Clang in Linux.
+An example of how to compile a "Hello, World" using [musl](https://musl.libc.org/) `libc` and [Clang](https://clang.llvm.org/) in Linux.
 
 > Clone this repo with submodules
 
